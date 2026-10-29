@@ -1,0 +1,6 @@
+{
+  "name": "AgentGrid — AI-Powered Customer Engagement & Automation",
+  "description": "Multi-tenant conversational AI and business automation platform with multi-channel adapters, NLU workflows, CRM integration, and human handover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
